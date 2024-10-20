@@ -26,13 +26,13 @@ Simply create a WhatsApp group where you and your friends send beer-related emoj
 
 1. **Clone Repository:**
    ```bash
-   git clone https://your-repository-url.git
+   git clone https://github.com/tiagomosantos/BeerDashboardWpp.git
    ``` 
 
 2. **Install dependencies:**
 Navigate to the project directory and install the required packages using pip:
    ```bash
-   cd your-repository
+   cd BeerDashboardWpp
    pip install -r requirements.txt
    ```
 
